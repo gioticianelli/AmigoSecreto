@@ -1,6 +1,8 @@
 # Amigo Secreto
 Projeto interativo para sorteio de amigo secreto desenvolvido em JavaScript.
 
+### Link para acesso: https://gioticianelli.github.io/AmigoSecreto/
+
 ## Funcionalidades
 - Normalização automática de nomes
 - Prevenção de nomes duplicados
